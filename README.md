@@ -1,4 +1,4 @@
-# awesome-learning-resources
+# awesome-developer-resources
 
 # Tutorials
 - [codecademy](http://codecademy.com)
@@ -37,6 +37,7 @@
 - [repl.it](https://repl.it/~)
 - [free-for.dev](https://free-for.dev/)
 - [techempower](https://techempower.com/benchmarks/)
+- [VPSBenchmarks](https://www.vpsbenchmarks.com/)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
