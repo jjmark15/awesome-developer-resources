@@ -4,21 +4,21 @@
 - [codecademy](http://codecademy.com)
 - [enki](http://enki.com)
 - [edx](https://www.edx.org/)
-- https://javabrains.io/
-- https://www.sololearn.com/
+- [javabrains](https://javabrains.io/)
+- [sololearn](https://www.sololearn.com/)
 - [brilliant.org](http://brilliant.org)
 - [exersism.io](https://exercism.io/)
 ## Bash
-- https://cmdchallenge.com/
+- [cmdchallenge](https://cmdchallenge.com/)
 ## JavaScript
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - https://scrimba.com/
 ## Java
 - [hyperskill](https://hyperskill.org/)
 ## Spring Boot
-- https://www.baeldung.com/
+- [baeldung](https://www.baeldung.com/)
 ## Python
-- https://pythonprogramming.net/
+- [pythonprogramming](https://pythonprogramming.net/)
 # Cheat Sheets & Documentation
 - [devhints.io](http://devhints.io)
 - [devdocs.io](http://devdocs.io)
@@ -32,16 +32,16 @@
 - [insomnia](https://insomnia.rest/)
 - [CSS Grid generator](https://grid.layoutit.com/)
 - [unicode character table](https://unicode-table.com/en/)
-- https://www.websequencediagrams.com/
+- [web sequence diagrams](https://www.websequencediagrams.com/)
 - [Spring Initializr](https://start.spring.io/)
-- https://repl.it/~
-- https://free-for.dev/
-- https://www.techempower.com/benchmarks/
+- [repl.it](https://repl.it/~)
+- [free-for.dev](https://free-for.dev/)
+- [techempower](https://techempower.com/benchmarks/)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
 - [hackernoon.com](http://hackernoon.com)
 - [freeCodeCamp](http://freecodecamp.org)
 # Challenges
-- https://adventofcode.com/
-- https://leetcode.com/problemset/all/
+- [advent of code](https://adventofcode.com/)
+- [leetcode](https://leetcode.com/problemset/all/)
