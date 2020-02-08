@@ -1,4 +1,4 @@
-# awesome-developer-learning-resources
+# awesome-learning-resources
 
 # Tutorials
 - [codecademy](http://codecademy.com)
