@@ -36,6 +36,7 @@
 - [Spring Initializr](https://start.spring.io/)
 - https://repl.it/~
 - https://free-for.dev/
+- https://www.techempower.com/benchmarks/
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
