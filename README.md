@@ -8,6 +8,7 @@
 - [sololearn](https://www.sololearn.com/)
 - [brilliant.org](http://brilliant.org)
 - [exersism.io](https://exercism.io/)
+- [KataCoda](https://www.katacoda.com/learn)
 ## Bash
 - [cmdchallenge](https://cmdchallenge.com/)
 ## JavaScript
