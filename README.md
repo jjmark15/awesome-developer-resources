@@ -40,6 +40,7 @@
 - [techempower](https://techempower.com/benchmarks/)
 - [VPSBenchmarks](https://www.vpsbenchmarks.com/)
 - [asciinema](https://asciinema.org/)
+- [mdbook](https://github.com/rust-lang/mdBook)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
