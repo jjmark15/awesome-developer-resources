@@ -41,6 +41,7 @@
 - [VPSBenchmarks](https://www.vpsbenchmarks.com/)
 - [asciinema](https://asciinema.org/)
 - [mdbook](https://github.com/rust-lang/mdBook)
+- [themer](https://themer.dev/)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
