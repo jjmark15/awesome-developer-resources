@@ -9,6 +9,8 @@
 - [brilliant.org](http://brilliant.org)
 - [exersism.io](https://exercism.io/)
 - [KataCoda](https://www.katacoda.com/learn)
+- [exersicm.io](https://exercism.io/)
+- [gophercises](https://gophercises.com/)
 ## Bash
 - [cmdchallenge](https://cmdchallenge.com/)
 ## JavaScript
@@ -42,6 +44,8 @@
 - [asciinema](https://asciinema.org/)
 - [mdbook](https://github.com/rust-lang/mdBook)
 - [themer](https://themer.dev/)
+- [gitui](https://github.com/extrawurst/gitui)
+- [git-delta](https://github.com/dandavison/delta)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
