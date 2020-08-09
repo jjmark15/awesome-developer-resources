@@ -11,6 +11,7 @@
 - [KataCoda](https://www.katacoda.com/learn)
 - [exersicm.io](https://exercism.io/)
 - [gophercises](https://gophercises.com/)
+- [pingcap talen plan](https://github.com/pingcap/talent-plan)
 ## Bash
 - [cmdchallenge](https://cmdchallenge.com/)
 ## JavaScript
