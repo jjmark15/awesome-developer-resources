@@ -47,6 +47,7 @@
 - [gitui](https://github.com/extrawurst/gitui)
 - [git-delta](https://github.com/dandavison/delta)
 - [bandwhich](https://github.com/imsnif/bandwhich)
+- [crontab-guru](https://crontab.guru/)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
