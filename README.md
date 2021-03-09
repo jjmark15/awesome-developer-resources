@@ -49,6 +49,7 @@
 - [git-delta](https://github.com/dandavison/delta)
 - [bandwhich](https://github.com/imsnif/bandwhich)
 - [crontab-guru](https://crontab.guru/)
+- [remarkjs](https://github.com/gnab/remark)
 # Blogs/Feeds
 - [dev.to](http://dev.to)
 - [opensource.com](http://opensource.com)
