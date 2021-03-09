@@ -26,6 +26,7 @@
 # Cheat Sheets & Documentation
 - [devhints.io](http://devhints.io)
 - [devdocs.io](http://devdocs.io)
+- [CSS Reference](https://cssreference.io/)
 # Tools
 - [caniuse.com](http://caniuse.com)
 - [regex101.com](https://regex101.com/)
