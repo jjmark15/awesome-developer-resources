@@ -48,6 +48,7 @@
 - [asciinema](https://asciinema.org/)
 - [mdbook](https://github.com/rust-lang/mdBook)
 - [themer](https://themer.dev/)
+- [Glim (macOS)](https://github.com/NeoPanic/Glim)
 - [gitui](https://github.com/extrawurst/gitui)
 - [git-delta](https://github.com/dandavison/delta)
 - [bandwhich](https://github.com/imsnif/bandwhich)
